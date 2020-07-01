@@ -5,3 +5,4 @@ Simulateur console d'un jeu de roullette
 Librairies math et random  
 Boucles  
 Invites de commandes  
+ASCII-art
